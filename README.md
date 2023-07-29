@@ -1,6 +1,5 @@
 # yaz_challenge_hafta3_medium
-
-A new Flutter project.
+![image](https://github.com/sevvalsusenturk/yaz_challenge_hafta3_medium/assets/116514905/2e191fa3-4552-4b37-b0da-1dde726df91a)
 
 ## Getting Started
 
